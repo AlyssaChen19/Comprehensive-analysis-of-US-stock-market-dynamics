@@ -1,6 +1,6 @@
 ## Comprehensive analysis of US stock market dynamics
 
-## Contributor: 
+Contributor: 
 Megha Arul Senthilkumar, Shuo Ming Kuo, Yu-Chin (Alyssa) Chen, Mengxin Zhao, Jaishankar Govindaraj
 
 ## Executive Summary:
